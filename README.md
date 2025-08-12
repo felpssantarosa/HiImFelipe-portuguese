@@ -1,7 +1,11 @@
-# Oi, eu sou Felipe!
+<p align=center>Engenheiro de software com uma paixão enorme por Open Source.</p>
 
-Engenheiro de software com uma paixão enorme por Open Source.
 <br/>
+
+<p align=center>
+  <img width="1200" height="630" alt="social-card" src="https://github.com/user-attachments/assets/fb0e47bd-e68a-4c59-bc59-fa5ac589e523" />
+</p>
+
 <br/>
 
 ## 🧶 Ferramentas que eu tenho experiência
